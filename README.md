@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspired by the beauty of our solar system and the wonders of animation.
+- (https://www.youtube.com/shorts/LOSCrYq0ZB4)
